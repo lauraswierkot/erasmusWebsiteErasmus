@@ -1,0 +1,32 @@
+mat-toolbar
+{
+    background-color: white;
+    color: grey;
+    height: 12%;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 30px;
+}
+
+.mat-button{
+    padding: 0 6px 0 6px;
+    margin: 6px 8px 6px 8px;
+    min-width: 100px;
+    border-radius: 0px;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration:none;
+    border: none;
+    outline: none;
+}
+
+.home{
+    font-size: 30px;
+}
+
+.spacer
+{
+    flex: 1 1 auto;
+}
