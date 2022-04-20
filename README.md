@@ -34,3 +34,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+## PL
+
+Pierwszy projekt komercyjny. Strona w budowie
+Preview:
+
+## ENG
+
+First commercial project. Site under construction
+Preview: 
+
