@@ -36,11 +36,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## PL
 
-Pierwszy projekt komercyjny. Strona w budowie
-Preview:
+Pierwszy projekt komercyjny. 
+Strona w budowie.
+Preview: https://sprightly-dasik-b364ac.netlify.app/home
 
 ## ENG
 
-First commercial project. Site under construction
-Preview: 
+First commercial project. 
+Site under construction.
+Preview: https://sprightly-dasik-b364ac.netlify.app/home
 
