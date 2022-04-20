@@ -38,7 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Pierwszy projekt komercyjny. 
 Strona w budowie.
-Preview: https://sprightly-dasik-b364ac.netlify.app/home.
+Preview: https://master--sprightly-dasik-b364ac.netlify.app/home.
 
 ## ENG
 
