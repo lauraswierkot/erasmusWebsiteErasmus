@@ -46,3 +46,5 @@ First commercial project.
 Site under construction.
 Preview: https://sprightly-dasik-b364ac.netlify.app/home.
 
+![image](https://user-images.githubusercontent.com/93220488/205483327-46ec8cbc-b8ed-4993-a372-92274b8a1609.png)
+
